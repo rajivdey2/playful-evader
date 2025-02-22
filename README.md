@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/751d9610-729d-4bc3-ac78-48d9b2ed8f31
+**URL to run the app**: https://playful-evader.lovable.app/ 
 
 ## How can I edit this code?
 
